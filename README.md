@@ -1,7 +1,7 @@
 # Project-Mutant
 Challenge project mutant
 
-La implementación del proyecto se llevo acabo con Java 8, junto con el framework Sprint boot, también se realizo se utiliza la estructura de Base de datos H2, todo bajo la arquitectura hexagonal.
+La implementación del proyecto se llevo acabo con Java 8, junto con el framework Sprint boot, también se utiliza la estructura de Base de datos H2, todo bajo la arquitectura hexagonal.
 
 ## Tecnologias
 
