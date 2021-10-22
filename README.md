@@ -3,6 +3,16 @@ Challenge project mutant
 
 La implementación del proyecto se llevo acabo con Java 8, junto con el framework Sprint boot, también se realizo se utiliza la estructura de Base de datos H2, todo bajo la arquitectura hexagonal.
 
+## Tecnologias
+
+Java 8
+Spring Boot
+JUnit
+Mockito
+Tomcat
+Base de datos H2
+
+
 ## Consumo Servicio /project-mutant
 
 ### url: http://64.227.3.187:8081/project-mutant/
