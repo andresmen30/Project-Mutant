@@ -126,7 +126,7 @@ Este método retorna las estadisticas de las pruebas, de cuantos sujetos son mut
 
 ##### Clonar del repositorio
 ```
-git clone https://github.com/andresmen30/Project-Mutant.git
+git clone -b master https://github.com/andresmen30/Project-Mutant.git
 ```
 
 
